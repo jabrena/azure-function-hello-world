@@ -278,7 +278,7 @@
       <id>graalvm</id>
       <properties>
         <native.maven.plugin.version>0.10.6</native.maven.plugin.version>
-        <graalvm.version>24.1.1</graalvm.version>
+        <graalvm.version>24.2.1</graalvm.version>
       </properties>
       
       <dependencies>
